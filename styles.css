@@ -866,4 +866,7 @@ footer {
   .footer-faded-text {
     display: none;
   }
+      .skill-container-right{
+    margin-top: 40px;
+  }
 }
