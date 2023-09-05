@@ -309,7 +309,7 @@ z-index: 0;
   }
   @media (max-width:1300px) {
     .hero-section {
-      /* display: flex; */
+/*       display: flex; */
       flex-wrap: wrap;
 /*       flex-direction: column; */
       justify-content: center;
